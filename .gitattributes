@@ -1,2 +1,14 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Ambiente virtual
+venv/
+
+# Dados sensíveis ou pesados (se quiser)
+data/processed/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Python cache
+__pycache__/
